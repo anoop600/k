@@ -23,7 +23,7 @@ spec:
       privileged: true
       #runAsUser: 1
       #runAsNonRoot: false
-      runAsUser:200
+      runAsUser: 200
       runAsNonRoot: true
       
 
